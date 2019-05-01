@@ -1,0 +1,3 @@
+[submodule "react-redux"]
+	path = redux
+	url = https://github.com/CheenaT/Meetings-React-Redux
