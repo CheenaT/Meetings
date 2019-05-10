@@ -1,3 +1,6 @@
 [submodule "react-redux"]
 	path = redux
 	url = https://github.com/CheenaT/Meetings-React-Redux
+[submodule "hooks"]
+	path = hooks
+	url = https://github.com/CheenaT/Meetings-React-Hooks
