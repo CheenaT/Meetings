@@ -4,3 +4,6 @@
 [submodule "hooks"]
 	path = hooks
 	url = https://github.com/CheenaT/Meetings-React-Hooks
+[submodule "mobx"]
+	path = mobx
+	url = https://github.com/CheenaT/Meetings-React-MobX
